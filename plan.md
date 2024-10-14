@@ -126,14 +126,6 @@ The final deliverables include:
 
 ---
 
-## Visual Representation
-
-Below is a visual representation of the task breakdown:
-
-![Project Task Breakdown Chart](../mnt/data/A_project_task_breakdown_chart_showing_three_peopl.png)
-
----
-
 By following this plan, we ensure an efficient distribution of work across team members, helping us stay organized and on track to deliver a high-quality project.
 
 
