@@ -91,7 +91,7 @@ Below is a detailed breakdown of the tasks, with each member responsible for dif
 - Compiles the final report, summarizing findings and providing actionable insights for public health authorities.
   
 **Atoofa (25%)**
-- Creates presentation slides and visuals for team and client meetings.
+- Creates plogpost material.
 
 **Erik (25%)**
 - Reviews the report and presentation for clarity, ensuring all key findings are communicated effectively.
