@@ -1,0 +1,16 @@
+
+pandas==1.5.3
+numpy==1.24.2
+matplotlib==3.7.1
+seaborn==0.12.2
+scikit-learn==1.2.2
+tensorflow==2.12.0
+keras==2.12.0
+statsmodels==0.14.0
+prophet==1.1
+geopandas==0.13.2
+folium==0.14.0
+plotly==5.13.0
+requests==2.31.0
+jupyterlab==4.0.3
+jupyter==1.0.0
